@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Home from './Components/Home/Home';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
         <li><a href="/contact">Contact</a></li>
       </ul>
       <div className="content">
-
+        <Home />
       </div>
     </div>
   );
