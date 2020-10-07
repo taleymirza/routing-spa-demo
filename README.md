@@ -1,3 +1,12 @@
+# Routing Demo in React
+
+This project was used in Tech karo class to explain routing in React
+
+## Project Component Structure
+![Image](https://github.com/taleymirza/routing-spa-demo/blob/main/project-structure.png)
+
+# Project Tooling
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
